@@ -1,1 +1,1 @@
-include ':app', ':EasyAR'
+include ':app'
