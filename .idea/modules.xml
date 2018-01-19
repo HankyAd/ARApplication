@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ARApplication.iml" filepath="$PROJECT_DIR$/ARApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EasyAR/EasyAR.iml" filepath="$PROJECT_DIR$/EasyAR/EasyAR.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

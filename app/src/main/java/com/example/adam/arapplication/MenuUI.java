@@ -41,4 +41,5 @@ public class MenuUI extends AppCompatActivity {
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
     }
 
+
 }
