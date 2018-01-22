@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ARApplication.iml" filepath="$PROJECT_DIR$/ARApplication.iml" />
+      <module fileurl="file://I:\arapp\ARApplication\ARApplication.iml" filepath="I:\arapp\ARApplication\ARApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://I:\arapp\ARApplication\app\app.iml" filepath="I:\arapp\ARApplication\app\app.iml" />
     </modules>
   </component>
 </project>
